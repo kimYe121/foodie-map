@@ -5,6 +5,7 @@ foodie-vue/node_modules/
 # Build output
 dist/
 foodie-vue/dist/
+foodie-service/target/
 
 # IDE
 .idea/
@@ -27,4 +28,9 @@ npm-debug.log*
 
 # Uploads
 .uploads/
+
+# Spider data
+foodie-spider/data/
+__pycache__/
+*.pyc
 大作业要求.docx
